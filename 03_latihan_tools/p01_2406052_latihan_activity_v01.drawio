@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="dFx_2F7XOci1GuVuaSoc">
+    <mxGraphModel dx="1664" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-21" edge="1" parent="1" source="TXdN0WuoX4YfiZvwKR5M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TXdN0WuoX4YfiZvwKR5M-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-19" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="410" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-23" edge="1" parent="1" source="TXdN0WuoX4YfiZvwKR5M-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TXdN0WuoX4YfiZvwKR5M-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=strokeColor;strokeColor=#FEF7FF;" value="&lt;span style=&quot;color: rgb(254, 247, 255);&quot;&gt;BUKA DAFTAR PERALATAN&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-27" edge="1" parent="1" source="TXdN0WuoX4YfiZvwKR5M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TXdN0WuoX4YfiZvwKR5M-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=strokeColor;strokeColor=#FEF7FF;" value="&lt;span style=&quot;color: rgb(254, 247, 255);&quot;&gt;LIHAT INFO KETERSEDIAAN&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="TXdN0WuoX4YfiZvwKR5M-26" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="410" y="475" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
